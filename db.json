@@ -3,6 +3,7 @@
       {
         "id": 1,
         "title": "Olá didio!",
+        "body":"HAHAHAHAHHAHAHHA",
         "content": "This is my first post.",
         "authorId": 1,
         "tags": ["intro", "hello"],
